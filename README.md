@@ -12,3 +12,12 @@ este comando se usa para que el chatbot nos brinde informacion cuales son las co
 
 -causas
 este comando se usa para que el chatbot nos brinde informacion sobre que genera el calentamiento global y de como podemos mitigar su progreso para asi contribuir por el bienestar de todos
+
+-!
+este prefijo se usa para la activacion del chatbot
+
+# tecnologias
+el chatbot utiliza codigo python y las librerias de 
+-discord
+-random
+-
