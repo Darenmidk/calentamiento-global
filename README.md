@@ -20,4 +20,3 @@ este prefijo se usa para la activacion del chatbot
 el chatbot utiliza codigo python y las librerias de 
 -discord
 -random
--
